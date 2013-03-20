@@ -1,4 +1,4 @@
-package :locales
+package 'locales'
 
 locale = node[:locale][:locale]
 lang   = node[:locale][:lang]
